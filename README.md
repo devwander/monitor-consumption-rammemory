@@ -30,3 +30,8 @@ npm start
 # Yarn
 yarn start
 ```
+## Acess Endpoint
+
+http://localhost:3000/stats
+
+---
